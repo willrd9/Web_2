@@ -1,0 +1,2 @@
+domain ec2.internal
+nameserver 172.31.0.2
